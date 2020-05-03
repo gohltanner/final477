@@ -1,7 +1,7 @@
 1. Download and unzip
 2. Open in Visual Studio Code
 3. Open terminal and cd the project folder
-4. Run npm start and open you localhost
+4. Run npm start and open your localhost
 5. Enjoy
 
 
