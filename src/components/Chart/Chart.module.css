@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  margin-bottom: 100px;
+}
+
+@media only screen and (max-width: 750px) {
+  .container {
+    width: 100%;
+  }
+}
+ 

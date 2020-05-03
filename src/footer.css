@@ -1,0 +1,23 @@
+footer {
+    position: absolute;
+    bottom: -25%;
+    left: 0%;
+    width: 100%;
+    margin-bottom: 0;
+    padding: 1%;
+    text-align: center;
+    color: #808080;
+    background-color: #030f1f;
+    font-size: 1.1em;
+    font-family: 'Helvetica', Arial, Tahoma, Lucida Sans Unicode, Verdana, sans-serif;
+  }
+  a:link, a:visited {
+    color: #808080;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:hover, a:active {
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.080);
+    color: #ffffff;
+  }
